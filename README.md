@@ -11,5 +11,4 @@ Demo:
 https://user-images.githubusercontent.com/71290098/206248655-b4640db9-189a-4fe0-8c7a-1a9b3f4b9933.mp4
 
 Diagram:
-
 ![IK-3-Joints-Diagram](https://user-images.githubusercontent.com/71290098/206290060-2143b54c-881b-45bb-8367-2cafea1915c6.png)
